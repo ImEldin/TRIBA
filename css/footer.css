@@ -1,0 +1,67 @@
+footer{
+
+    background-color: #121212;
+    
+}
+
+.footerBox{
+
+    text-align: center;
+}
+
+footer i{
+
+    display: inline-flex;
+    height: 40px;
+	width: 40px;
+	background: #232428;
+    color: #d02a2a;
+	
+	align-items: center;
+	justify-content: center;
+    border-radius: 8px;
+	font-size: 18px;
+	margin-right: 10px;
+    
+    cursor: pointer;
+
+}
+
+footer i:hover{
+   
+    transform: scale(1.01) translateY(-5px);
+	color: #ffffff;
+	background: #d02a2a;
+    transition: 0.5s;
+}
+
+footer .linija{
+    height: 2px;
+    background-color: #d02a2a;
+    width: 200px;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+
+footer .copyright{
+
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+footer .copyright a{
+
+    margin-right: 5px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+footer .copyright h5{
+
+    margin: 0;
+}

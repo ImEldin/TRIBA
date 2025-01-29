@@ -1,0 +1,46 @@
+main{
+    min-height: 78vh;
+}
+
+body{
+    background-color: #2b2a2a;
+}
+
+.container-fluid{
+
+    
+    height: 350x;
+    padding: 40px;
+    padding-top: 10px;
+    align-items: center;
+}
+
+#oProjektu{
+
+    background-color: #201f1f;
+    height: 450px;
+    margin: 20px;
+    text-align: center;
+}
+
+.col-xl h3{
+    padding-top: 20px;
+    color: #ffffff;
+}
+
+.col-xl p{
+
+    padding: 10px;
+    color: #ffffff;
+}
+
+.col-xl button{
+
+    width: 70%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+#novaIgra{
+    margin-bottom: 25px;
+}
